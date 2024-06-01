@@ -1,0 +1,3 @@
+﻿  dbSql.cpp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  dbSql.vcxproj -> C:\Users\nktle\OneDrive\Рабочий стол\Системное прог\Егор\dbSql\x64\Debug\dbSql.exe
